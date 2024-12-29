@@ -47,7 +47,7 @@ parso==0.8.3
 pathspec==0.12.1
 pexpect==4.9.0
 phonenumbers==8.13.37
-Pillow==10.3.0
+pillow==10.3.0
 platformdirs==4.1.0
 prometheus-client==0.19.0
 prompt-toolkit==3.0.43
